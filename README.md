@@ -1,1 +1,3 @@
 "# guia-programacion" 
+
+"ANTES DE NADA CREEN UNA CARPETA PARA LOS ARCHIVOS Y EJECTUEN PRIMERO npm install Y DESPUES npm run dev"
